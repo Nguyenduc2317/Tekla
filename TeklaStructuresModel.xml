@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>New model</Name>
+        <Designer>DRG MODELLED BY</Designer>
+        <Description></Description>
+        <Version>2017 Service Pack 4</Version>
+        <Language>enu</Language>
+        <Template></Template>
+        <Environment>uk</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM>S:\11 TEMPORARY\TS_POLHAN_FIRM</XS_FIRM>
+        <XS_SYSTEM>C:\ProgramData\Tekla Structures\2017\\environments\uk\system\;C:\ProgramData\Tekla Structures\2017\\environments\common\system\;C:\ProgramData\Tekla Structures\2017\\environments\common\system\ConstructionManagement\</XS_SYSTEM>
+    </Model>
+</TeklaStructuresModels>

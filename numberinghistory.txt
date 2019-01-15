@@ -1,0 +1,192 @@
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:48:22 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part    guid: ID31905EC4-A07C-4320-A4D8-3FDDD2B37A9E  series:Concrete_CB-1/1  Concrete_CB-1/0 -> Concrete_CB-1/1
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Rebar    guid: ID4EA2D8DE-B6DE-4601-965D-8A1816A7888E  series:/1  /0 -> /3
+Rebar    guid: ID886D6DE7-AB5D-44A1-914D-A6BB4F33AAA5  series:/1  /0 -> /1
+Rebar    guid: IDD4A64D15-977F-46DD-80F7-5EA151B5BCD7  series:/1  /0 -> /2
+Rebar    guid: ID77A959B4-DA1E-4725-985C-BF9A85FDB943  series:/1  /0 -> /4
+Rebar    guid: ID1455C581-9DEE-4D44-BC6D-FAB66D52A092  series:/1  /0 -> /4
+Rebar    guid: ID91540F10-5B60-4C4E-A4DE-DA2DA03B1229  series:/1  /0 -> /4
+Rebar    guid: ID444B57EE-F2C8-4108-834C-B9AE478B664D  series:/1  /0 -> /4
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly guid: IDB8BD22F7-1C97-4BA0-8386-1188B4ABBBF1  series:CB/1  CB/0 -> CB/1
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:48:22 2018
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:57:47 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model disabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part    guid: ID31905EC4-A07C-4320-A4D8-3FDDD2B37A9E  series:Concrete_CB-1/1  Concrete_CB-1/1 -> Concrete_CB-1/2
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Rebar    guid: ID886D6DE7-AB5D-44A1-914D-A6BB4F33AAA5  series:/1  /1 -> /5
+Rebar    guid: IDD4A64D15-977F-46DD-80F7-5EA151B5BCD7  series:/1  /2 -> /6
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly guid: IDB8BD22F7-1C97-4BA0-8386-1188B4ABBBF1  series:CB/1  CB/1 -> CB/2
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:57:52 2018
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:58:28 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model enabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:58:28 2018
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:58:40 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model enabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:58:40 2018
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:59:11 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model enabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part    guid: ID31905EC4-A07C-4320-A4D8-3FDDD2B37A9E  series:Concrete_CB-1/1  Concrete_CB-1/2 -> Concrete_CB-1/3
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Rebar    guid: ID4EA2D8DE-B6DE-4601-965D-8A1816A7888E  series:1/1  1/0 -> 1/1
+Rebar    guid: ID886D6DE7-AB5D-44A1-914D-A6BB4F33AAA5  series:1/1  1/0 -> 1/2
+Rebar    guid: IDD4A64D15-977F-46DD-80F7-5EA151B5BCD7  series:1/1  1/0 -> 1/3
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly guid: IDB8BD22F7-1C97-4BA0-8386-1188B4ABBBF1  series:CB/1  CB/2 -> CB/3
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:59:15 2018
+
+*** Numbering (NguyenVD2): Fri Dec 21 09:59:41 2018
+  Modified numbering for selected series
+  Take new number for modified objects
+  Take new number for new objects
+  Holes considered
+  Part names considered
+  Beam orientation ignored
+  Column orientation ignored
+  Reinforcing bars considered
+  Embeds considered
+  Surface treatments considered
+  Welds ignored
+  Automatic cloning enabled
+  Synchronize with master model enabled
+  Tolerance: 2.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 5.000000
+  RebarTolerance: 5.000000
+  WeldSeamPropertyTolerance: 0.000000
+Numbering 1 parts.
+Part numbering done in 0s
+Numbering 7 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 1 assemblies or assembly families
+Assembly numbering done in 0s
+Numbering 1 assemblies or assembly families
+Family numbering done in 0s
+*** Operation finished Fri Dec 21 09:59:41 2018

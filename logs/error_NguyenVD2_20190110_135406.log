@@ -1,0 +1,18 @@
+ERROR:  10.01.2019 13:54:42 Exception has been thrown by the target of an invocation.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at Tekla.Structures.Dialog.DialogTag.Create(Control c, StructuresExtender structuresExtender)
+   at Tekla.Structures.Dialog.FormBase.ScanTaggedControls()
+   at Tekla.Structures.Dialog.FormBase.InitializeDataStorage()
+   at Tekla.Structures.Dialog.FormBase.InitializeForm()
+   at Tekla.Structures.Dialog.Dialogs.InitializePluginDialog(ExistingDialog plugindialog, Type dialogtype)
+   at Tekla.Structures.Dialog.Dialogs.GetPluginFormBaseByPluginFormName(String pluginFormName)
+   at Tekla.Structures.Dialog.Dialogs.DoLoadAttributeFileNameToDialogAndApply(String attributeFileName, String pluginFormName)
+   at Tekla.Structures.Dialog.Dialogs.LoadAttributeFileNameToDialogAndApply(String param)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Tekla.Technology.Akit.Dakbind.CallMethod(String methodName, String parameter)

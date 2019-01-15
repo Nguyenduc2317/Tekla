@@ -1,0 +1,6 @@
+ASSERT: 24.12.2018 12:56:28 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155
+ASSERT: 24.12.2018 12:56:28 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155
+ASSERT: 24.12.2018 12:57:18 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155
+ASSERT: 24.12.2018 12:57:18 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155
+ASSERT: 24.12.2018 12:57:49 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155
+ASSERT: 24.12.2018 12:57:49 REASON: (rGraphicObject.nPolygonPoints == nPointsToBeAdded), File: int_dr_graphicobject_utilities.cpp, Line: 155

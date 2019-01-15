@@ -1,0 +1,288 @@
+[2018-12-15T03:51:09Z] *** Save Model ***
+[2018-12-15T03:51:12Z] *** Save Library ***
+[2018-12-15T03:51:14Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T02:45:25Z] *** Open Library ***
+[2018-12-21T02:45:25Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2018-12-21T02:45:26Z] *** Open Model ***
+[2018-12-21T02:45:26Z] Compact callbacks (37 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(10 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(8 ms) SketchRepository_c(19 ms) 
+[2018-12-21T02:46:01Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T02:48:42Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T02:56:59Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T02:58:28Z] *** Save Model ***
+[2018-12-21T02:58:28Z] *** Save Library ***
+[2018-12-21T02:58:33Z] *** Save Model ***
+[2018-12-21T02:58:33Z] *** Save Library ***
+[2018-12-21T02:58:39Z] *** Save Model ***
+[2018-12-21T02:58:39Z] *** Save Library ***
+[2018-12-21T02:58:42Z] *** Save Model ***
+[2018-12-21T02:58:42Z] *** Save Library ***
+[2018-12-21T02:59:10Z] *** Save Model ***
+[2018-12-21T02:59:10Z] *** Save Library ***
+[2018-12-21T02:59:36Z] *** Save Model ***
+[2018-12-21T02:59:36Z] *** Save Library ***
+[2018-12-21T02:59:40Z] *** Save Model ***
+[2018-12-21T02:59:41Z] *** Save Library ***
+[2018-12-21T02:59:43Z] *** Save Model ***
+[2018-12-21T02:59:43Z] *** Save Library ***
+[2018-12-21T02:59:55Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T03:06:40Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T03:07:07Z] *** Save Model ***
+[2018-12-21T03:07:08Z] *** Save Library ***
+[2018-12-21T03:07:11Z] *** Open Library ***
+[2018-12-21T03:07:11Z] Compact callbacks (54 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(54 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2018-12-21T03:07:13Z] *** Open Model ***
+[2018-12-21T03:07:13Z] Compact callbacks (1 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(1 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) ResetDrawingListAfterIdCompacting(0 ms) SketchRepository_c(0 ms) 
+[2018-12-21T03:07:17Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T03:08:00Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T03:59:52Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T04:00:15Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T04:30:07Z] *** Save Model ***
+[2018-12-21T04:30:08Z] *** Save Library ***
+[2018-12-21T05:40:39Z] *** Save Model ***
+[2018-12-21T05:40:39Z] *** Save Library ***
+[2018-12-21T05:40:45Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T06:16:57Z] *** Open Library ***
+[2018-12-21T06:16:57Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2018-12-21T06:16:58Z] *** Open Model ***
+[2018-12-21T06:16:58Z] Compact callbacks (13 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(1 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(12 ms) SketchRepository_c(0 ms) 
+[2018-12-21T06:17:37Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T06:22:05Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T06:52:11Z] *** Save Model ***
+[2018-12-21T06:52:11Z] *** Save Library ***
+[2018-12-21T07:48:33Z] *** Save Model ***
+[2018-12-21T07:48:33Z] *** Save Library ***
+[2018-12-21T07:48:37Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T09:35:35Z] *** Open Library ***
+[2018-12-21T09:35:35Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2018-12-21T09:35:36Z] *** Open Model ***
+[2018-12-21T09:35:36Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2018-12-21T09:35:50Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T09:36:25Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-21T10:16:52Z] *** Save Model ***
+[2018-12-21T10:16:52Z] *** Save Library ***
+[2018-12-21T10:55:10Z] *** Save Model ***
+[2018-12-21T10:55:10Z] *** Save Library ***
+[2018-12-21T10:55:20Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-24T05:53:54Z] *** Open Library ***
+[2018-12-24T05:53:54Z] Compact callbacks (9 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(9 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2018-12-24T05:53:57Z] *** Open Model ***
+[2018-12-24T05:53:57Z] Compact callbacks (91 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(9 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(50 ms) dglUpdatePlaneIdAfterCompactingCB(8 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(16 ms) SketchRepository_c(8 ms) 
+[2018-12-24T05:54:45Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-24T05:56:14Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2018-12-24T06:01:32Z] *** Save Model ***
+[2018-12-24T06:01:33Z] *** Save Library ***
+[2018-12-24T06:01:36Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-05T09:41:02Z] *** Open Library ***
+[2019-01-05T09:41:02Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-05T09:41:04Z] *** Open Model ***
+[2019-01-05T09:41:04Z] Compact callbacks (18 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(18 ms) 
+[2019-01-05T09:41:47Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-05T10:45:26Z] *** Save Model ***
+[2019-01-05T10:45:26Z] *** Save Library ***
+[2019-01-05T10:46:17Z] *** Save Model ***
+[2019-01-05T10:46:17Z] *** Save Library ***
+[2019-01-05T16:44:56Z] *** Open Library ***
+[2019-01-05T16:44:56Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-05T16:44:57Z] *** Open Model ***
+[2019-01-05T16:44:57Z] Compact callbacks (45 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(13 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(4 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(15 ms) SketchRepository_c(13 ms) 
+[2019-01-05T16:45:23Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-05T17:26:44Z] *** Save Model ***
+[2019-01-05T17:26:44Z] *** Save Library ***
+[2019-01-05T17:34:35Z] *** Save Model ***
+[2019-01-05T17:34:35Z] *** Save Library ***
+[2019-01-05T17:48:46Z] *** Save Model ***
+[2019-01-05T17:48:46Z] *** Save Library ***
+[2019-01-06T05:30:48Z] *** Open Library ***
+[2019-01-06T05:30:49Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-06T05:30:51Z] *** Open Model ***
+[2019-01-06T05:30:52Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-06T05:31:36Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-06T06:06:33Z] *** Save Model ***
+[2019-01-06T06:06:33Z] *** Save Library ***
+[2019-01-06T09:23:04Z] *** Save Model ***
+[2019-01-06T09:23:05Z] *** Save Library ***
+[2019-01-07T03:10:40Z] *** Open Library ***
+[2019-01-07T03:10:40Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-07T03:10:42Z] *** Open Model ***
+[2019-01-07T03:10:42Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-07T03:11:16Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-07T03:23:36Z] *** Save Model ***
+[2019-01-07T03:23:36Z] *** Save Library ***
+[2019-01-07T03:35:15Z] *** Save Model ***
+[2019-01-07T03:35:15Z] *** Save Library ***
+[2019-01-07T03:51:48Z] *** Save Model ***
+[2019-01-07T03:51:48Z] *** Save Library ***
+[2019-01-07T03:58:25Z] *** Save Model ***
+[2019-01-07T03:58:25Z] *** Save Library ***
+[2019-01-07T04:22:37Z] *** Save Model ***
+[2019-01-07T04:22:37Z] *** Save Library ***
+[2019-01-07T05:49:51Z] *** Save Model ***
+[2019-01-07T05:49:51Z] *** Save Library ***
+[2019-01-07T06:07:35Z] *** Save Model ***
+[2019-01-07T06:07:35Z] *** Save Library ***
+[2019-01-07T07:05:26Z] *** Save Model ***
+[2019-01-07T07:05:27Z] *** Save Library ***
+[2019-01-07T07:33:24Z] *** Save Model ***
+[2019-01-07T07:33:24Z] *** Save Library ***
+[2019-01-07T07:36:25Z] *** Save Model ***
+[2019-01-07T07:36:25Z] *** Save Library ***
+[2019-01-09T09:02:00Z] *** Open Library ***
+[2019-01-09T09:02:00Z] Compact callbacks (1 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(1 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-09T09:02:03Z] *** Open Model ***
+[2019-01-09T09:02:03Z] Compact callbacks (107 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(20 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(29 ms) dglUpdatePlaneIdAfterCompactingCB(8 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(26 ms) SketchRepository_c(24 ms) 
+[2019-01-09T09:02:48Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-09T09:15:02Z] *** Save Model ***
+[2019-01-09T09:15:03Z] *** Save Library ***
+[2019-01-09T09:26:20Z] *** Save Model ***
+[2019-01-09T09:26:21Z] *** Save Library ***
+[2019-01-09T09:55:14Z] *** Save Model ***
+[2019-01-09T09:55:14Z] *** Save Library ***
+[2019-01-10T03:21:50Z] *** Open Library ***
+[2019-01-10T03:21:50Z] Compact callbacks (9 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(9 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T03:21:52Z] *** Open Model ***
+[2019-01-10T03:21:52Z] Compact callbacks (63 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(20 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(18 ms) dglUpdatePlaneIdAfterCompactingCB(8 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(5 ms) SketchRepository_c(12 ms) 
+[2019-01-10T03:22:22Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T03:27:25Z] *** Save Model ***
+[2019-01-10T03:27:25Z] *** Save Library ***
+[2019-01-10T03:27:27Z] *** Save Model ***
+[2019-01-10T03:27:27Z] *** Save Library ***
+[2019-01-10T03:27:29Z] *** Save Model ***
+[2019-01-10T03:27:30Z] *** Save Library ***
+[2019-01-10T03:27:31Z] *** Save Model ***
+[2019-01-10T03:27:32Z] *** Save Library ***
+[2019-01-10T03:27:33Z] *** Save Model ***
+[2019-01-10T03:27:34Z] *** Save Library ***
+[2019-01-10T03:27:36Z] *** Save Model ***
+[2019-01-10T03:27:36Z] *** Save Library ***
+[2019-01-10T03:27:38Z] *** Save Model ***
+[2019-01-10T03:27:38Z] *** Save Library ***
+[2019-01-10T03:27:40Z] *** Save Model ***
+[2019-01-10T03:27:40Z] *** Save Library ***
+[2019-01-10T03:27:42Z] *** Save Model ***
+[2019-01-10T03:27:42Z] *** Save Library ***
+[2019-01-10T03:27:44Z] *** Save Model ***
+[2019-01-10T03:27:44Z] *** Save Library ***
+[2019-01-10T03:27:46Z] *** Save Model ***
+[2019-01-10T03:27:46Z] *** Save Library ***
+[2019-01-10T03:27:48Z] *** Save Model ***
+[2019-01-10T03:27:48Z] *** Save Library ***
+[2019-01-10T03:27:50Z] *** Save Model ***
+[2019-01-10T03:27:50Z] *** Save Library ***
+[2019-01-10T03:27:52Z] *** Save Model ***
+[2019-01-10T03:27:52Z] *** Save Library ***
+[2019-01-10T04:39:23Z] *** Save Model ***
+[2019-01-10T04:39:23Z] *** Save Library ***
+[2019-01-10T06:13:37Z] *** Save Model ***
+[2019-01-10T06:13:38Z] *** Save Library ***
+[2019-01-10T06:17:05Z] *** Open Library ***
+[2019-01-10T06:17:05Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T06:17:06Z] *** Open Model ***
+[2019-01-10T06:17:06Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T06:17:22Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T06:21:07Z] *** Save Model ***
+[2019-01-10T06:21:07Z] *** Save Library ***
+[2019-01-10T06:23:08Z] *** Open Library ***
+[2019-01-10T06:23:08Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T06:23:10Z] *** Open Model ***
+[2019-01-10T06:23:10Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T06:23:22Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T06:52:16Z] *** Save Model ***
+[2019-01-10T06:52:16Z] *** Save Library ***
+[2019-01-10T06:54:08Z] *** Open Library ***
+[2019-01-10T06:54:08Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T06:54:10Z] *** Open Model ***
+[2019-01-10T06:54:10Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T06:54:27Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T07:00:03Z] *** Save Model ***
+[2019-01-10T07:00:03Z] *** Save Library ***
+[2019-01-10T07:01:39Z] *** Open Library ***
+[2019-01-10T07:01:39Z] Compact callbacks (1 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(1 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T07:01:41Z] *** Open Model ***
+[2019-01-10T07:01:41Z] Compact callbacks (1 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(1 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T07:01:53Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T07:04:23Z] *** Save Model ***
+[2019-01-10T07:04:24Z] *** Save Library ***
+[2019-01-10T07:06:01Z] *** Open Library ***
+[2019-01-10T07:06:01Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T07:06:02Z] *** Open Model ***
+[2019-01-10T07:06:02Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T07:06:18Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T07:30:10Z] *** Save Model ***
+[2019-01-10T07:30:10Z] *** Save Library ***
+[2019-01-10T07:32:53Z] *** Open Library ***
+[2019-01-10T07:32:53Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T07:32:54Z] *** Open Model ***
+[2019-01-10T07:32:54Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T07:33:06Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T07:38:58Z] *** Save Model ***
+[2019-01-10T07:38:59Z] *** Save Library ***
+[2019-01-10T07:40:48Z] *** Open Library ***
+[2019-01-10T07:40:48Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T07:40:49Z] *** Open Model ***
+[2019-01-10T07:40:49Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T07:41:02Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T09:48:29Z] *** Save Model ***
+[2019-01-10T09:48:30Z] *** Save Library ***
+[2019-01-10T09:53:16Z] *** Open Library ***
+[2019-01-10T09:53:16Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T09:53:18Z] *** Open Model ***
+[2019-01-10T09:53:18Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T09:53:43Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T10:21:23Z] *** Open Library ***
+[2019-01-10T10:21:23Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T10:21:24Z] *** Open Model ***
+[2019-01-10T10:21:24Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T10:21:49Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-10T10:25:47Z] *** Save Model ***
+[2019-01-10T10:25:48Z] *** Save Library ***
+[2019-01-10T10:27:53Z] *** Open Library ***
+[2019-01-10T10:27:53Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-10T10:27:54Z] *** Open Model ***
+[2019-01-10T10:27:54Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-10T10:28:08Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T07:41:20Z] *** Open Library ***
+[2019-01-11T07:41:20Z] Compact callbacks (43 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(43 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T07:41:23Z] *** Open Model ***
+[2019-01-11T07:41:24Z] Compact callbacks (102 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(68 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(15 ms) SketchRepository_c(19 ms) 
+[2019-01-11T07:42:01Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T08:05:13Z] *** Save Model ***
+[2019-01-11T08:05:13Z] *** Save Library ***
+[2019-01-11T08:07:02Z] *** Open Library ***
+[2019-01-11T08:07:02Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T08:07:03Z] *** Open Model ***
+[2019-01-11T08:07:03Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-11T08:07:15Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T08:25:22Z] *** Open Library ***
+[2019-01-11T08:25:22Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T08:25:24Z] *** Open Model ***
+[2019-01-11T08:25:24Z] Compact callbacks (1 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(1 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-11T08:25:32Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T08:29:43Z] *** Open Library ***
+[2019-01-11T08:29:43Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T08:29:45Z] *** Open Model ***
+[2019-01-11T08:29:45Z] Compact callbacks (1 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(1 ms) SketchRepository_c(0 ms) 
+[2019-01-11T08:29:58Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T09:58:21Z] *** Save Model ***
+[2019-01-11T09:58:21Z] *** Save Library ***
+[2019-01-11T09:59:44Z] *** Open Library ***
+[2019-01-11T09:59:44Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T09:59:46Z] *** Open Model ***
+[2019-01-11T09:59:46Z] Compact callbacks (1 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(1 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-11T09:59:59Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T10:23:52Z] *** Open Library ***
+[2019-01-11T10:23:52Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-11T10:23:53Z] *** Open Model ***
+[2019-01-11T10:23:53Z] Compact callbacks (0 ms) UpdateModelIdsAfterCompactingCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) SketchRepository_c(0 ms) 
+[2019-01-11T10:24:01Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-11T10:34:58Z] *** Save Model ***
+[2019-01-11T10:34:58Z] *** Save Library ***
+[2019-01-15T07:52:38Z] *** Open Library ***
+[2019-01-15T07:52:38Z] Compact callbacks (72 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(72 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-15T07:52:40Z] *** Open Model ***
+[2019-01-15T07:52:40Z] Compact callbacks (0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) SketchRepository_c(0 ms) 
+[2019-01-15T07:52:45Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
+[2019-01-15T08:27:31Z] *** Open Library ***
+[2019-01-15T08:27:31Z] Compact callbacks (43 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) UpdateAutojointTreesAfterCompactingCB(43 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2019-01-15T08:27:32Z] *** Open Model ***
+[2019-01-15T08:27:32Z] Compact callbacks (0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) selUpdateViewFilterMapIdsAfterCompactingCB(0 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) ReferenceGraphIdsCompactedCallback(0 ms) SurfaceInitializeSurfaceCache(0 ms) SurfaceInitializeSurfaceModelContext(0 ms) SketchRepository_c(0 ms) 
+[2019-01-15T08:27:35Z] Model sharing key not found in directory: C:\TeklaStructuresModels\New model\.
